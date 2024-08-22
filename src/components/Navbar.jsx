@@ -56,7 +56,7 @@ const Navbar = () => {
             <li>
               <details>
                 <summary>Categories</summary>
-                <ul className="p-2">  
+                <ul className=" bg-white p-2 text-dark">  
                   <li>
                     <a>Men</a>
                   </li>
